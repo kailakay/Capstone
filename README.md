@@ -86,30 +86,21 @@ Exploring emissions by country </summary>
 
 ### EDA 
 
-### Conclusion 
+Unsurprisingly, Beef products have the highest emissions score, sitting more than twice as high as the second highest score - lamb. I found it interesting that both Chocolate and Coffee came in as the 5th and 6th highest scores respectively. I am interested to see whether or not those scores change over time, as we move towards more responsible and sustainable sourcing as a whole. 
+
+After tracking emissions of products to each countries production, I was able to calculate the approximate emissions per country over the course of 50 years. With the same top 3 countires, Brazil also comes in as a top offender. As seen below, the pattern of emissions pretty much mimics the pattern of production.
+
+<img src='Images\percentage of world em.png' size=125%>
+
+The only difference being that the United States emissions rates appear a lot higher than those of China in comparison to the production output over the years. In the notebook there are bar charts for all four of the top countries; but here are the top 5 products contributing to emissions over the time-frame for China and the United States:
+
+<img src='Images\china top em.png' size=150%>
+<img src='Images\usa top em.png' size=125%>
+
+Interestingly, the U.S. has been reliant on the production of Beef whereas China has carried a more diverse production portfolio.
 
 </details>
 <!------------------------------------------>
-
-<details><summary style="font-size: 24px">
-Question 3: {??} </summary> 
-
-[Question 3 Notebook Link]()
-
-### Tables Used:
-
-```
-| 
-| 
-```
-
-### EDA
-
-### Conclusion
-
-</details>
-<!------------------------------------------>
-
 
 # Wrap Up
 
