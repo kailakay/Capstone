@@ -34,7 +34,7 @@ The Environmental Impact of Food Production dataset broke products down into the
 
 <details><summary style="font-size: 24px">
 Diving into a half-century of production </summary> 
-[Notebook Link]()
+[Notebook Link](https://github.com/kailakay/Capstone/blob/master/Who%20Grows%20the%20Food%20We%20Eat.ipynb)
 
 #### Tables Used:
 
@@ -71,7 +71,7 @@ While all three countries have continued to grow their production numbers; the U
 <details><summary style="font-size: 24px">
 Exploring emissions by country </summary> 
 
-[Question 2 Notebook Link]()
+[Question 2 Notebook Link](https://github.com/kailakay/Capstone/blob/master/Emissions.ipynb)
 
 ### Tables Used:
 
