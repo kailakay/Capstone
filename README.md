@@ -1,14 +1,9 @@
-Synopsis; analysis; modeling; conclusion
-
-
-
-
 # Global Food Production:
 ## Sustainability Capstone
 
 <img src='Images\global_food_production_conceptual_image.jpg' width = '65%' />
 
-[Medium Blog Post]()
+[Medium Blog Post](https://medium.com/@kailastone/data-science-presentations-storytelling-through-slide-shows-34b42b64104)
 
 [Presentation PDF]()
 
@@ -43,19 +38,17 @@ Due to the large file size, I have only added my final datasets to my github rep
 
 
 <details><summary style="font-size: 24px">
-Question 1: {Who grows the food we eat?} </summary> 
-
-[Question 1 Notebook Link](https://github.com/kailakay/Capstone/blob/master/EDA%20Who%20Grows%20the%20Food%20We%20Eat.ipynb)
+Diving into a half-century of production </summary> 
+[Notebook Link]()
 
 #### Tables Used:
 
 ```
 | who_eats_food_we_grow.csv
 ```
-#### EDA
-With production data ranging from 1961 through 2013; I found that China, India, and the USA have consistently been the top producers of the global food/feed supply. 
 
-#### Conclusion
+
+With production data ranging from 1961 through 2013; I found that China, India, and the USA have consistently been the top producers of the global food/feed supply. The two maps below show the side-by-side comparison of production in 1961 vs 2013. The darker the color, the higher the production amount.
 
 <table>
   <tr>
@@ -63,8 +56,8 @@ With production data ranging from 1961 through 2013; I found that China, India, 
     <td>2013 World Production</td>
   </tr>
   <tr>
-    <td><img src='Images\1961_world_production.png'></td>
-    <td><img src='Images\2013_world_production.png'></td>
+    <td><img src='Images\1961_world_production.png' size=125%></td>
+    <td><img src='Images\2013_world_production.png' size=100%></td>
   </tr>
  </table>
 
@@ -72,13 +65,15 @@ With production data ranging from 1961 through 2013; I found that China, India, 
  |
  [2013 Interactive Map](Images\HTML\2013_world_production.html)
 
+While all three countries have continued to grow their production numbers; the United States has not managed to keep up with the growth in scale of China or India. 
 
+<img src='Images\percentage of world prod.png' size=125%>
 </details>
 
 <!------------------------------------------>
 
 <details><summary style="font-size: 24px">
-Question 2:  {Exploring emissions by country} </summary> 
+Exploring emissions by country </summary> 
 
 [Question 2 Notebook Link]()
 
@@ -119,7 +114,7 @@ Question 3: {??} </summary>
 # Wrap Up
 
 # Future Work
--
--
+- Labor Rates
+- 
 
 
