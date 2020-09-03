@@ -5,9 +5,9 @@
 
 [Medium Blog Post](https://medium.com/@kailastone/data-science-presentations-storytelling-through-slide-shows-34b42b64104)
 
-[Presentation PDF]()
+[Presentation PDF](C:\Users\kekay\flatiron\Capstone\Capstone\Capstone Presentation.pdf)
 
-[Video Walkthrough]()
+[Video Walkthrough](https://youtu.be/3ldZygPHzbQ)
 
 ## Purpose
 As a professional chef coming into Data Science; my main goal for my career is to fuse my two passions in order to aid in tackling food accessbility and sustainability. My first step towards that journey continues with my Capstone project: researching the issue and developing an intimate understanding of the environment surrounding food sustainability. I've downloaded data that includes information global food production and dispersion. 
