@@ -5,7 +5,7 @@
 
 [Medium Blog Post](https://medium.com/@kailastone/data-science-presentations-storytelling-through-slide-shows-34b42b64104)
 
-[Presentation PDF](C:\Users\kekay\flatiron\Capstone\Capstone\Capstone Presentation.pdf)
+[Presentation PDF](https://github.com/kailakay/Capstone/blob/master/Capstone%20Presentation.pdf)
 
 [Video Walkthrough](https://youtu.be/3ldZygPHzbQ)
 
@@ -22,20 +22,15 @@ The original data sets can be found on Kaggle:
 - [Environmental Impact of Food Production](https://www.kaggle.com/selfvivek/environment-impact-of-food-production)
 <!------------------------------------------>
 ## Data Description
+The break down of data from the World Food & Feed Production set is majorally intended for human consumption, however some of the values are referencing 'Feed' production: items used to feed animals that are intended for human consumption.
 
-<details><summary style="font-size: 18px"> 
-List of Files:</summary> 
-Due to the large file size, I have only added my final datasets to my github repo. All changes are documented in the CRISP-DM notebook.
+<img src='Images\food feed.png' size=125%>
 
-```
-| 
-| 
-```
-</details>
+The Environmental Impact of Food Production dataset broke products down into the emissions output in order to create and transport. Below is a line graph showing the emissions of the top 5 countries from 1961-2013.
+
+<img src='Images\Emissions graph.png' size=125%>
+
 <!------------------------------------------>
-
-### Main Questions:
-
 
 <details><summary style="font-size: 24px">
 Diving into a half-century of production </summary> 
@@ -45,6 +40,7 @@ Diving into a half-century of production </summary>
 
 ```
 | who_eats_food_we_grow.csv
+| Food_Production.csv
 ```
 
 
@@ -80,8 +76,11 @@ Exploring emissions by country </summary>
 ### Tables Used:
 
 ```
-| 
-| 
+| who_eats_food_we_grow.csv
+| yearly_total_product_per_country.csv
+| Food_Production.csv
+| total_emissions_key.csv
+| emisions_df.csv
 ```
 
 ### EDA 
@@ -104,8 +103,14 @@ Interestingly, the U.S. has been reliant on the production of Beef whereas China
 
 # Wrap Up
 
+I learned a lot during this Capstone! Not just about the topic of food production and the impact that we put on our planet. I wrote my very first successful Lambda function (I'm still not sure why that was such a difficult concept for me); and also about how to gather data from different sources and compiling it in a way that compliments my previous work.
+
+
+
 # Future Work
-- Labor Rates
-- 
+- The impact of labor rates on production
+- Land use and the effect of pesticides and fertilizers
+- Predicting future emissions using a machine learning model
+- Import/Export contribution
 
 
